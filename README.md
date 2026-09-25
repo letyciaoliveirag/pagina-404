@@ -14,7 +14,7 @@ Este foi um dos meus primeiros projetos para praticar **HTML, CSS e JavaScript**
 
 Este projeto foi desenvolvido com fins de **estudo e prática**.
 
-Sou estudante iniciante de programação e estou construindo meus primeiros projetos para desenvolver minhas habilidades em desenvolvimento web e aprender cada vez mais.
+Sou estudante iniciante de programação e estou construindo meus primeiros projetos para desenvolver minhas habilidades em desenvolvimento web.
 
 Durante o desenvolvimento, acompanhei um tutorial do **Gustavo Campelo** e fui reproduzindo os conceitos apresentados, fazendo adaptações e ajustes no projeto enquanto aprendia.
 
@@ -42,7 +42,6 @@ Praticar conceitos de desenvolvimento web e entender melhor a construção e est
 ## Autora
 
 Feito por [Letycia Oliveira](https://github.com/letyciaoliveirag)
-Estudante iniciante de programação, atualmente focada em desenvolvimento web.
 
 ## 📌 Créditos
 
@@ -50,5 +49,4 @@ Tutorial utilizado como referência:
 
 **Gustavo Campelo — YouTube**
 
-Projeto desenvolvido para fins educacionais e de prática.
 
