@@ -11,3 +11,18 @@ Página de erro 404 personalizada, animada e interativa, feita acompanhando um t
 ## Preview
 
 ![Página 404](./assets/figma-monstrinho.jpg)
+
+
+## Como visualizar
+
+1. Clone o repositório:
+
+​```
+git clone https://github.com/letyciaoliveirag/pagina-404.git
+​```
+
+2. Abra o arquivo `index.html` no navegador
+
+## Autora
+
+Feito por [Letycia Oliveira](https://github.com/letyciaoliveirag)
