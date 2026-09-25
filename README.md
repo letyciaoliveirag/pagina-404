@@ -1,28 +1,54 @@
 # Página 404
 
-Página de erro 404 personalizada, animada e interativa, feita acompanhando um tutorial do YouTube, com ajustes e adaptações próprias. Utilizei o Claude para me ajudar a resolver alguns erros durante o desenvolvimento.
+Uma página de erro **404** desenvolvida durante meus estudos de programação.
 
-## Tecnologias
+Este foi um dos meus primeiros projetos para praticar **HTML, CSS e JavaScript**, colocando em prática os conceitos aprendidos.
 
-- HTML5
-- CSS3
-- JavaScript
+## Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+
+## Sobre o projeto
+
+Este projeto foi desenvolvido com fins de **estudo e prática**.
+
+Sou estudante iniciante de programação e estou construindo meus primeiros projetos para desenvolver minhas habilidades em desenvolvimento web e aprender cada vez mais.
+
+Durante o desenvolvimento, acompanhei um tutorial do **Gustavo Campelo** e fui reproduzindo os conceitos apresentados, fazendo adaptações e ajustes no projeto enquanto aprendia.
+
 
 ## Preview
 
 ![Página 404](./assets/figma-monstrinho.jpg)
 
 
-## Como visualizar
 
-1. Clone o repositório:
+## Como executar o projeto
 
-​```
+Você pode clonar este repositório utilizando:
+
+```bash
 git clone https://github.com/letyciaoliveirag/pagina-404.git
-​```
+```
 
-2. Abra o arquivo `index.html` no navegador
+Depois, abra o arquivo `index.html` no navegador.
+
+## Objetivo
+
+Praticar conceitos de desenvolvimento web e entender melhor a construção e estilização de uma página 404 personalizada.
 
 ## Autora
 
 Feito por [Letycia Oliveira](https://github.com/letyciaoliveirag)
+Estudante iniciante de programação, atualmente focada em desenvolvimento web.
+
+## 📌 Créditos
+
+Tutorial utilizado como referência:
+
+**Gustavo Campelo — YouTube**
+
+Projeto desenvolvido para fins educacionais e de prática.
+
