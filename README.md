@@ -1,0 +1,13 @@
+# Página 404
+
+Página de erro 404 personalizada, animada e interativa, feita acompanhando um tutorial do YouTube, com ajustes e adaptações próprias. Utilizei o Claude para me ajudar a resolver alguns erros durante o desenvolvimento.
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Preview
+
+![Página 404](./assets/figma-monstrinho.jpg)
